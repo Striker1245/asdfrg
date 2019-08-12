@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /ads/
+Disallow: /apis/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /js/
